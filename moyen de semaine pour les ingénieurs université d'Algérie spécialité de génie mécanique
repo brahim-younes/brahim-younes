@@ -1,5 +1,5 @@
 #include <stdio.h>
-// by Brahim Younes Abdelbassat
+// by Brahim Younes Abdelbassat 
 int main() {
     int A, S;
     double TDEN1, TDAl1, EXAl1, TDAn1, EXAn1, TDPR, EXPR, TDPh1, EXPh1, TDCh1, EXCh1, TPCh1, TPPh1, EXET, EXEN1, EXinfo1;
